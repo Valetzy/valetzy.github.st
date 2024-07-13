@@ -6,4 +6,4 @@ type A
 type O
 type AB
 type K
-
+type VHJ1c3QgbWUgZGlsaSBuaSBhbmcgZmxhZyBjMlZzWldOMFExUkdlM1JvYVhOZmFYTmZibTkwWDNsdmRYSm1iR0ZuZlE9PQ==
